@@ -1,0 +1,5 @@
+Name,Number of Calls,Elapsed Inclusive Time %,Elapsed Exclusive Time %,Avg Elapsed Inclusive Time,Avg Elapsed Exclusive Time,
+"MSVCP120D.dll",998,94.96,94.91,0.01,0.01,
+"ConsoleApplication2.exe","1,955",100.00,4.50,7.99,0.00,
+"MSVCR120D.dll",8,0.57,0.56,0.01,0.01,
+"ntdll.dll",5,0.03,0.03,0.00,0.00,

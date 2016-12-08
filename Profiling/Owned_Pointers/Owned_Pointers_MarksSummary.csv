@@ -1,0 +1,7 @@
+Mark ID,Mark Name,Timestamp,\Processor(_Total)\% Processor Time,\Memory\Pages/sec,\Processor(_Total)\% Privileged Time,\Processor(_Total)\% User Time,\.NET CLR Exceptions(ConsoleApplication2)\# of Exceps Thrown / sec,\.NET CLR Memory(ConsoleApplication2)\# Bytes in all Heaps,\.NET CLR Memory(ConsoleApplication2)\# Total committed bytes,\.NET CLR Memory(ConsoleApplication2)\# Gen 0 Collections,\.NET CLR Memory(ConsoleApplication2)\# Gen 1 Collections,\.NET CLR Memory(ConsoleApplication2)\# Gen 2 Collections,\.NET CLR Memory(ConsoleApplication2)\% Time in GC,\Process(ConsoleApplication2)\% Processor Time,\Process(ConsoleApplication2)\% Privileged Time,\Process(ConsoleApplication2)\% User Time,\Process(ConsoleApplication2)\Private Bytes,\.NET CLR LocksAndThreads(ConsoleApplication2)\Contention Rate / sec,\Process(ConsoleApplication2)\Working Set,
+0,"Start of Program",0.00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+1,"AutoMark",0.04,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"831,488",0,"37,376,000",
+2,"AutoMark",507.14,10,47,3,9,0,0,0,0,0,0,0,0,0,0,0,0,0,
+3,"AutoMark","1,009.26",9,0,3,6,0,0,0,0,0,0,0,0,0,0,0,0,0,
+"4,294,967,295","End of Program","1,511.07",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+4,"AutoMark","1,511.07",8,0,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,
